@@ -1,0 +1,225 @@
+.btn{
+    
+    height:100px;
+    margin-left:600px;
+    display:flex;
+}
+.btn a{
+    margin-left:60px;
+    font-weight: 700;
+}
+.btn a:hover
+{
+     font-size:25px;
+}
+.pi
+{
+     height:60px;
+     width:300px;
+     background-image: url("img/de.jpg");
+     position: relative;
+     right:600px;
+     background-size:contain;
+     background-repeat: no-repeat;
+     
+    
+
+}
+
+.main{
+    height:560px;
+    align-items: center;
+    justify-content: center;
+  }
+  .logo
+{
+    height: 550px;
+    margin-left: 950px;
+    background-image: url('img/deepthi.jpeg');
+    background-size: cover;
+    position: relative;
+    bottom:530px;
+}
+h1{
+    width:65%;
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    width:65%;
+
+}
+input
+{
+     color:white;
+    size: 100px;
+    background-color:blue;
+    margin-left:200px;
+    margin-top:80px;
+}
+input:hover{
+    background-color:purple;
+    transition: all 2s ease-in 1s;
+}
+.pic a{
+    margin-left:100px;
+}
+.contact-container
+{
+    height:550px;
+    font-size: 20px;
+     margin-top:50px;
+     
+    
+
+   
+}
+.photo
+{
+   height: 560px;
+    width:870px;
+    margin-right: 900px;
+    background-image: url('img/contact.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom:200px;
+}
+.details
+{
+    font-size: 25px;
+    margin-left:900px;
+    margin-top: 20px;
+
+}
+
+
+.myproject 
+{
+    height:550px;
+    margin-top:10px;
+}
+ .mypro 
+ {
+    font-size: 25px;
+    margin-left:900px;
+    margin-top: 10px;
+}
+.photo2
+{
+   height: 550px;
+   width:870px;
+   margin-right: 900px;
+   background-image: url('img/my.jpg');
+   background-size:contain;
+   background-repeat: no-repeat;
+   position: relative;
+   bottom:50px;
+   
+
+}
+.resume
+{
+    height:50px;
+    width:10%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.resume a
+{
+    text-decoration: none;
+}
+.resume a:hover{
+    color:red;
+}
+
+body, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+.footer-left {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer-left h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer-left p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align:center;
+    margin-right:100px;
+}
+
+.social-icons {
+    font-size: 24px;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+.footer-right {
+    flex: 1;
+    text-align: right;
+}
+
+.footer-right ul {
+    list-style: none;
+}
+
+.footer-right ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-right ul li:last-child {
+    margin-right: 0;
+}
+
+.footer-right ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-right p {
+    font-size: 14px;
+}
+.skill
+{
+    height:300px;
+}
+.skill h1{
+    text-align: center;
+}
+
+
